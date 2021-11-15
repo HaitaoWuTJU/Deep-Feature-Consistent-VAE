@@ -38,7 +38,6 @@ python generatedImg.py
 ## 4.Reconstruct
 
 vae123
-
 ![Reconstruct](./imgs/129000.png)
 
 vae345
